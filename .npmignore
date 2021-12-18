@@ -1,0 +1,8 @@
+#file
+.DS_Store
+npm-debug.log
+
+# dir
+.idea/
+node_modules/
+build/
